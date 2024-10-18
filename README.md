@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I'm a student in aerospace engineering
-- 🤖 I'm currently working on a robotic project
-- 
 
 <!--
 **aeomath/aeomath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
